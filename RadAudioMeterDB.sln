@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{EEA2146B-A8EE-40AA-8FB8-4B2185CE1B49}") = "RadAudioMeterDB", "RadAudioMeterDB\RadAudioMeterDB.vcxproj", "{0E0DF480-576A-46A6-9815-EAC1D039A526}"
 EndProject
